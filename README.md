@@ -18,7 +18,7 @@ Deployed as a streamlit web app - https://telcom-customer-churn-prediction.strea
 
 ### Dataset
 
-The Dataset is obtain from [IBM sample data](https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=samples-telco-customer-churn) which is also available on [Kaggle](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset).
+The Dataset is obtain from [IBM sample data](https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=samples-telco-customer-churn) which is also available on [Kaggle](https://www.kaggle.com/api/v1/datasets/download/ajaykumarjaganathan/ibm-sample-data).
 The Dataset has columns consisting of the following information:
 - Customer Demographics information - gender, age, partner, dependents, city, zip code, latitude and longitude
 - Customer Account info - features related to contract, payment method, paperless billing, monthly charges, and total charges
