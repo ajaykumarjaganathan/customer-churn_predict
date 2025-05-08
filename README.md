@@ -1,5 +1,7 @@
-# customer-churn_predict
-# Customer Churn-Prediction
+
+### Deployment
+Deployed as a streamlit web app - https://ak-2006.streamlit.app/
+# Telecom Customer Churn-Prediction
 
 ### Telecom Customer Churn Prediction
 
@@ -7,8 +9,6 @@ Customer churn refers to the phenomenon where customers or subscribers stop doin
 High churn rates can indicate dissatisfaction among customers or issues with the product or service offered by the company.
 Hence identifying high risk customers who are likely to leave is a cruicial step to focus on these segment of customers to try and reatain them by providing certain incentives or improving certain aspects that may lead to retention.
 
-### Deployment
-Deployed as a streamlit web app - https://telcom-customer-churn-prediction.streamlit.app/
 
 ![image](https://github.com/RohitMacherla3/customer-churn-prediction/assets/89356811/9708847e-b57a-4ee1-940f-9ba4358697e5)
 
